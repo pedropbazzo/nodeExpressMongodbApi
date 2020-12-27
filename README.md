@@ -1,7 +1,5 @@
 # Tutorial: Desenvolvendo uma Aplicação RESTful API em Node.Js & Express.Js com MongoDb
 
-Código desenvolvido do tutorial do CRUD em Node.Js, Express e MongoDb, através do meu site: [Code4coders] (www.code4coders.wordpress.com)
-
 ## Recursos utilizados no desenvolvimento:
 
 - Node.Js;
@@ -11,11 +9,6 @@ Código desenvolvido do tutorial do CRUD em Node.Js, Express e MongoDb, através
 - Mongoose ~4.x;
 - JSON data (para retornar os dados);
 - PostMan (testar a API criada);
-
-## Acompanhamento do Desenvolvimento dos BackLogs do Projeto:
-
-Caso queira saber o acompanhamento do desenvolvimento de cada backlog do projeto que está sendo
-desenvolvido, basta clicar [Aqui](https://trello.com/b/exbJW7kt/tutorial-construindo-uma-aplicacao-restful-api-node-js-express-com-mongodb)
 
 ## Testando a Aplicação no Postman:
 
